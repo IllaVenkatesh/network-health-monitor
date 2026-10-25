@@ -1,0 +1,11 @@
+[
+  {
+    "id": "INC0001",
+    "host": "Test Server (offline)",
+    "address": "10.255.255.1",
+    "priority": "Medium",
+    "status": "Open",
+    "opened_at": "2026-10-25 15:16:30",
+    "resolved_at": null
+  }
+]

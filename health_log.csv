@@ -1,0 +1,26 @@
+timestamp,name,address,status,response_ms
+2026-10-25 15:16:29,Localhost,127.0.0.1,UP,1.0
+2026-10-25 15:16:29,Google DNS,8.8.8.8,UP,26.0
+2026-10-25 15:16:30,Cloudflare DNS,1.1.1.1,UP,34.0
+2026-10-25 15:16:30,Google Website,google.com,UP,26.0
+2026-10-25 15:16:30,Test Server (offline),10.255.255.1,DOWN,
+2026-10-25 15:16:42,Localhost,127.0.0.1,UP,1.0
+2026-10-25 15:16:42,Google DNS,8.8.8.8,UP,26.0
+2026-10-25 15:16:42,Cloudflare DNS,1.1.1.1,UP,31.0
+2026-10-25 15:16:42,Google Website,google.com,UP,27.0
+2026-10-25 15:16:42,Test Server (offline),10.255.255.1,DOWN,
+2026-10-25 15:16:54,Localhost,127.0.0.1,UP,1.0
+2026-10-25 15:16:54,Google DNS,8.8.8.8,UP,27.0
+2026-10-25 15:16:54,Cloudflare DNS,1.1.1.1,UP,33.0
+2026-10-25 15:16:54,Google Website,google.com,UP,29.0
+2026-10-25 15:16:54,Test Server (offline),10.255.255.1,DOWN,
+2026-10-25 15:17:06,Localhost,127.0.0.1,UP,1.0
+2026-10-25 15:17:06,Google DNS,8.8.8.8,UP,24.0
+2026-10-25 15:17:06,Cloudflare DNS,1.1.1.1,UP,32.0
+2026-10-25 15:17:06,Google Website,google.com,UP,29.0
+2026-10-25 15:17:06,Test Server (offline),10.255.255.1,DOWN,
+2026-10-25 15:17:18,Localhost,127.0.0.1,UP,1.0
+2026-10-25 15:17:18,Google DNS,8.8.8.8,UP,24.0
+2026-10-25 15:17:18,Cloudflare DNS,1.1.1.1,UP,31.0
+2026-10-25 15:17:18,Google Website,google.com,UP,28.0
+2026-10-25 15:17:18,Test Server (offline),10.255.255.1,DOWN,
